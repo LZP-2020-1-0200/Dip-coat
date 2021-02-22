@@ -1,0 +1,11 @@
+** Drc report for D:\RXU\KikadProj\ESP_Dip\ESP_MotContr\ESP_MotContr.kicad_pcb **
+** Created on  **
+
+** Found 0 DRC errors **
+
+** Found 1 unconnected pads **
+ErrType(2): Не соединённые элементы
+    @(107,000 мм, 81,000 мм): Дорожка 0,400 мм [Net-(D16-Pad1)] на B.Cu, длина: 6,000 мм
+    @(98,000 мм, 72,000 мм): Дорожка 0,400 мм [Net-(D16-Pad1)] на B.Cu, длина: 15,000 мм
+
+** End of Report **
